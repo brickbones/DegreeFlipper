@@ -1,0 +1,11 @@
+{
+  "name": "DegreeFlipper",
+  "version": "1.0.0",
+  "description": "DegreeFlipper is a lightweight npm package designed to effortlessly handle temperature conversions between Celsius and Fahrenheit scales. With an intuitive API, DegreeFlipper allows developers to seamlessly convert temperatures for various use cases. Whether you need to convert Celsius to Fahrenheit or Fahrenheit to Celsius, this package provides a simple and reliable solution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Fremaint <ieatwebsites@gmail.com> (http://ieatwebsites.com/)",
+  "license": "ISC"
+}
